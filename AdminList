@@ -1,4 +1,7 @@
 {
-"string": "yes",
-"string": "me"
+"list": [
+  "me",
+  "ok",
+  "test",
+  "yes"
 }
