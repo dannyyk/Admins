@@ -1,8 +1,9 @@
 {
 "username": {
-  "creator": "'nqjf', 'i_ThinkAmongUs241', 'none'",
-  "owner": "'none'",
+  "creator": "'nqjf', 'ssaaa', 'none'",
+  "owner": "'i_ThinkAmongUs241'",
   "admin": "'none'",
-  "mod": "'none'"
+  "mod": "'none'",
+  "banned": "'none'"
   }
 }
